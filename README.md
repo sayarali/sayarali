@@ -1,6 +1,6 @@
 ### Hello 👋 I'm Ali.
 <hr>
-<iframe src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn">via GIPHY</a></p>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500" height="320" />
 <!--
 **sayarali/sayarali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
