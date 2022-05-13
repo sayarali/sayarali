@@ -1,4 +1,5 @@
 ### Hello 👋 I'm Ali.
+</hr>
 
 <!--
 **sayarali/sayarali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
