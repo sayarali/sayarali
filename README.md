@@ -11,9 +11,11 @@
 
 [<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
 [<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" />][kotlin]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />][java]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Firebase" width="26px" src="https://www.gstatic.com/devrel-devsite/prod/v63b1ab83c7ef339d4047a8b2e39f4276b23993a7a27f52a95a4e519913214950/firebase/images/touchicon-180.png" />][firebase]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />][mysql]
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][linux]
 <br>
 
 ### 🔧 Design Tools I Use:
@@ -26,9 +28,11 @@
 
 [android]: https://www.android.com/
 [kotlin]: https://kotlinlang.org
-[github]: https://github.com/sayarali
+[java]: https://www.java.com/tr/
 [vsCode]: https://code.visualstudio.com/
 [firebase]: https://firebase.google.com
+[mysql]: https://www.mysql.com
+[linux]: https://www.linux.org
 
 [xd]: https://www.adobe.com/products/xd.html
 [illustrator]: https://www.adobe.com/products/illustrator.html
