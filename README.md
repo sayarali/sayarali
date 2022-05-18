@@ -48,11 +48,13 @@
 [<img align="left" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" />][twitter]
 
 
-
-<br />
-
-
 [instagram]: https://www.instagram.com/sayarrali
 [linkedin]: https://www.linkedin.com/in/alisayar/
 [twitter]: https://twitter.com/sayarrali
-<br />
+
+<br><br>
+
+
+
+ <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=sayarali&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="mukireus"/>
+  <img height="170em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayarali&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="mukireus"/>
