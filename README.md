@@ -41,7 +41,7 @@
 [photoshop]: https://www.adobe.com/products/photoshop.html
 
 
-### 📩 Connect with me:
+### 📩 Contact with me:
 
 [<img align="left" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />][instagram]
