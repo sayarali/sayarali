@@ -7,3 +7,29 @@
 - I am learning Android mobile application development with Kotlin.
 
 
+### 🔧 Languages and Tools I Use:
+
+[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
+[<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" />][kotlin]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="Firebase" width="26px" src="https://www.gstatic.com/devrel-devsite/prod/v63b1ab83c7ef339d4047a8b2e39f4276b23993a7a27f52a95a4e519913214950/firebase/images/touchicon-180.png" />][firebase]
+<br>
+
+### 🔧 Design Tools I Use:
+
+[<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />][xd]
+[<img align="left" alt="Adobe Illustrator" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/640px-Adobe_Illustrator_CC_icon.svg.png" />][illustrator]
+[<img align="left" alt="Adobe Photoshop" width="26px" src="https://www.adobe.com/content/dam/cc/tnt/emea/emea0856/photoshop.svg" />][photoshop]
+
+<br />
+
+[android]: https://www.android.com/
+[kotlin]: https://kotlinlang.org
+[github]: https://github.com/sayarali
+[vsCode]: https://code.visualstudio.com/
+[firebase]: https://firebase.google.com
+
+[xd]: https://www.adobe.com/products/xd.html
+[illustrator]: https://www.adobe.com/products/illustrator.html
+[photoshop]: https://www.adobe.com/products/photoshop.html
